@@ -1,4 +1,3 @@
 day 1 work!
 adding code for day 1
-added some code
-day 1 work done! 
+
